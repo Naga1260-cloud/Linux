@@ -1,19 +1,25 @@
 1.Introduction to Linux
 
 What is Linux?
+
 Linux is a free and open-source operating system (OS) based on Unix. It was created by Linus Torvalds in 1991 as a personal project but has since evolved into a robust, enterprise-grade OS that powers everything from servers, cloud environments, smartphones, supercomputers, to embedded devices.
 
 Linux is known for its flexibility, stability, and security, making it popular in both personal and enterprise environments. Unlike proprietary operating systems like Windows and macOS, Linux allows users to modify the source code, providing full control over the OS.
 
 Linux consists of three main components:
 Kernel: The core of the OS that manages hardware resources.
+
 Shell: The interface between the user and the kernel, allowing command execution.
+
 System Utilities: Programs that perform specialized tasks like file manipulation, system monitoring, etc.
 
 Why Learn Linux?
 High Demand in IT: Linux is widely used in servers, cloud, DevOps, and security.
+
 Open Source: It’s customizable, with a vast community of developers contributing to its growth.
+
 Flexibility: Works on a wide range of hardware from small devices to large servers.
+
 Security: Offers strong security features like SELinux, firewalls, and built-in user management tools.
 
 Linux Distributions Overview
@@ -22,9 +28,12 @@ A Linux distribution (commonly called "distro") is a variant of the Linux operat
 Some distributions focus on user-friendliness (like Ubuntu), while others are designed for enterprise environments (like RedHat). Here’s a brief overview of popular Linux distributions:
 
 RedHat: An enterprise-grade Linux distribution, often used in large companies for server deployments. It focuses on stability and support, making it a good choice for critical systems.
+
 Ubuntu: A user-friendly Linux distribution ideal for desktops and servers. It’s based on Debian and focuses on ease of use. It’s popular for both personal and enterprise environments.
+
 CentOS: A free, community-supported derivative of RedHat. It's often used by businesses that want the stability of RedHat without the paid support.
 Fedora: A cutting-edge distro that serves as a testing ground for RedHat. It includes the latest Linux features and software but can be less stable than RedHat.
+
 Debian: One of the oldest Linux distributions, known for its stability and extensive package repository. Ubuntu is based on Debian.
 
 Difference between RedHat (RPM-based) and Ubuntu (DEB-based)
