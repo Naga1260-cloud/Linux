@@ -8,7 +8,6 @@ Popular distributions: RedHat, Ubuntu, CentOS, Fedora, Debian
 Difference between RedHat (RPM-based) and Ubuntu (DEB-based)
 Example:
 Guide on choosing the right distribution for your use case (desktop/server).
-Install RedHat and Ubuntu using VirtualBox or VMware. Provide step-by-step screenshots.
 
 2.Basic Linux Commands
 
